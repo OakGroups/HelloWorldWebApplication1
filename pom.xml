@@ -31,7 +31,8 @@
 	</dependencies>
 
 	<build>
-        <finalName>myspringbootapp</finalname>
+        <finalName>myspringbootapp</finalName>
+
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
